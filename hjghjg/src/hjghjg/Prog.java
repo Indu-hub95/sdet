@@ -6,6 +6,7 @@ public class Prog {
 	{
 		// TODO Auto-generated method stub
      System.out.println("sgjg");
+		System.out.println("jabfk");
 	}
 
 }
